@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="SampleTable" language="en" table="x_354077_sampleapp_sampletable">
+    <sys_documentation element="col4" label="Col4" language="en" table="x_354077_sampleapp_sampletable">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>col4</element>
             <help/>
             <hint/>
-            <label>SampleTable</label>
+            <label>Col4</label>
             <language>en</language>
             <name>x_354077_sampleapp_sampletable</name>
-            <plural>SampleTables</plural>
+            <plural>Col4s</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-25 08:31:46</sys_created_on>
-            <sys_id>dc7d1b34db563300e39e8742399619f5</sys_id>
+            <sys_created_on>2019-06-25 11:10:23</sys_created_on>
+            <sys_id>372dd334db563300e39e874239961998</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>SampleTable</sys_name>
+            <sys_name>Col4</sys_name>
             <sys_package display_value="SampleApplication" source="x_354077_sampleapp">a0983ab8db923300e39e87423996190c</sys_package>
             <sys_policy/>
             <sys_scope display_value="SampleApplication">a0983ab8db923300e39e87423996190c</sys_scope>
-            <sys_update_name>sys_documentation_x_354077_sampleapp_sampletable__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_354077_sampleapp_sampletable_col4_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-25 08:31:46</sys_updated_on>
+            <sys_updated_on>2019-06-25 11:10:23</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
